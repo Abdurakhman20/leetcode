@@ -1,4 +1,4 @@
-class ListNode {
+export class ListNode {
   val: number;
   next: ListNode | null;
 
